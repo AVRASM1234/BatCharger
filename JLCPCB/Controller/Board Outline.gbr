@@ -1,16 +1,12 @@
-G04 DipTrace 3.2.0.1*
-G04 Границыплаты.gbr*
-%MOIN*%
-G04 #@! TF.FileFunction,Profile*
-G04 #@! TF.Part,Single*
-%ADD11C,0.005512*%
+%TF.GenerationSoftware,Novarm,DipTrace,3.2.0.1*%
+%TF.CreationDate,2018-04-30T21:35:31+02:00*%
 %FSLAX26Y26*%
-G04*
-G70*
-G90*
+%MOIN*%
+%TF.FileFunction,Profile*%
+%TF.Part,Single*%
+%ADD11C,0.005512*%
 G75*
 G01*
-G04 BoardOutline*
 %LPD*%
 X393701Y2362205D2*
 D11*

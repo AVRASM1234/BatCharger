@@ -1,16 +1,12 @@
-G04 DipTrace 3.2.0.1*
-G04 Верхняяграфика.gbr*
-%MOIN*%
-G04 #@! TF.FileFunction,Drawing,Top*
-G04 #@! TF.Part,Single*
-%ADD18C,0.001312*%
+%TF.GenerationSoftware,Novarm,DipTrace,3.2.0.1*%
+%TF.CreationDate,2018-04-30T21:35:27+02:00*%
 %FSLAX26Y26*%
-G04*
-G70*
-G90*
+%MOIN*%
+%TF.FileFunction,Drawing,Top*%
+%TF.Part,Single*%
+%ADD18C,0.001312*%
 G75*
 G01*
-G04 TopAssy*
 %LPD*%
 X2362205Y1377953D2*
 D18*

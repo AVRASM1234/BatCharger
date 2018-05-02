@@ -1,18 +1,14 @@
-G04 DipTrace 3.2.0.1*
-G04 ¬ерхн€€п.маска.gbr*
+%TF.GenerationSoftware,Novarm,DipTrace,3.2.0.1*%
+%TF.CreationDate,2018-04-30T21:35:28+02:00*%
+%FSLAX26Y26*%
 %MOIN*%
-G04 #@! TF.FileFunction,Paste,Top*
-G04 #@! TF.Part,Single*
+%TF.FileFunction,Paste,Top*%
+%TF.Part,Single*%
 %ADD75R,0.051181X0.047244*%
 %ADD98R,0.043307X0.019685*%
 %ADD100R,0.019685X0.043307*%
-%FSLAX26Y26*%
-G04*
-G70*
-G90*
 G75*
 G01*
-G04 TopPaste*
 %LPD*%
 D100*
 X593552Y1427953D3*

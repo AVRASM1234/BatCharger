@@ -1,8 +1,9 @@
-G04 DipTrace 3.2.0.1*
-G04 Верхняямаска.gbr*
+%TF.GenerationSoftware,Novarm,DipTrace,3.2.0.1*%
+%TF.CreationDate,2018-04-30T21:35:28+02:00*%
+%FSLAX26Y26*%
 %MOIN*%
-G04 #@! TF.FileFunction,Soldermask,Top*
-G04 #@! TF.Part,Single*
+%TF.FileFunction,Soldermask,Top*%
+%TF.Part,Single*%
 %ADD54C,0.125984*%
 %ADD74R,0.066929X0.062992*%
 %ADD80C,0.070866*%
@@ -11,13 +12,8 @@ G04 #@! TF.Part,Single*
 %ADD99R,0.035433X0.059055*%
 %ADD101C,0.086614*%
 %ADD103R,0.086614X0.086614*%
-%FSLAX26Y26*%
-G04*
-G70*
-G90*
 G75*
 G01*
-G04 TopMask*
 %LPD*%
 D103*
 X3326772Y551181D3*
