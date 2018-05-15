@@ -1,0 +1,21 @@
+G04 DipTrace 3.2.0.1*
+G04 Границыплаты.gbr*
+%MOIN*%
+G04 #@! TF.FileFunction,Profile*
+G04 #@! TF.Part,Single*
+%ADD11C,0.005512*%
+%FSLAX26Y26*%
+G04*
+G70*
+G90*
+G75*
+G01*
+G04 BoardOutline*
+%LPD*%
+X-118110Y3818898D2*
+D11*
+X3818898D1*
+Y-118110D1*
+X-118110D1*
+Y3818898D1*
+M02*
